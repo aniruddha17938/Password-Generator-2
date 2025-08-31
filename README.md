@@ -1,2 +1,2 @@
 # Password-Generator-2
-Python Project 3
+Random Password Generator using Flask and Python
